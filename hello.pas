@@ -1,3 +1,3 @@
 ﻿begin
-  writeln('Привет, мир!');
+  writeln('Hello, World!');
 end.
